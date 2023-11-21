@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **React, Foundry, Solidity, C++, & Rust**
 
-- 👨‍💻 All of my projects are available at [tmsprks.com](https://tmsprks.com)
+- 👨‍💻 All of my projects are available at [trevorsparks.xyz](https://trevorsparks.xyz)
 
-- 📝 I sometimes write articles on [blog.tmsprks.com](https://blog.tmsprks.com)
+- 📝 I sometimes write articles on [blog.trevorsparks.xyz](https://blog.trevorsparks.xyz)
 
 - 📫 How to reach me **trevor.sparks@mailbox.org**
 
-- 📄 Know about my experiences [Resume](https://tmsprks.com/TrevorSparks_Resume.pdf)
+- 📄 Know about my experiences [Resume](https://trevorsparks.xyz/TrevorSparks_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
