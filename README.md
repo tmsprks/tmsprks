@@ -9,7 +9,7 @@
 
 - 📝 I sometimes write articles on [blog.trevorsparks.xyz](https://blog.trevorsparks.xyz)
 
-- 📫 How to reach me **trevor.sparks@mailbox.org**
+- 📫 How to reach me **trevor@trevorsparks.xyz**
 
 - 📄 Know about my experiences [Resume](https://trevorsparks.xyz/TrevorSparks_Resume.pdf)
 
