@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **trevor@trevorsparks.xyz**
 
-- 📄 Know about my experiences [Resume](https://trevorsparks.xyz/TrevorSparks_Resume.pdf)
+- 📄 Know about my experiences [Resume](https://trevorsparks.xyz/TrevorSparks_Resume-web3.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
